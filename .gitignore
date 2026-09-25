@@ -1,0 +1,23 @@
+# Challenge dataset
+6ab10eb3b23ba_student_resource/
+6ab10eb3b23ba_student_resource.zip
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Generated outputs
+outputs/
